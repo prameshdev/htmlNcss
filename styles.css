@@ -1,0 +1,26 @@
+body{
+    background-color:gray
+}
+
+img{
+    width: 300px;
+    height: 350px;
+    /* padding-right: 279px; */
+    margin-right: 20px;
+    padding-top: 100px;
+    padding-left: 65px;
+}
+
+h1{
+    padding-top: 100px;
+    font-family: 'Righteous', cursive;
+}
+.text{
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+    color: #f2f0ed;
+}
+.some{
+    width: 200px;
+    padding-top: 38px;
+}
